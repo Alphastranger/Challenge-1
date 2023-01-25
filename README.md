@@ -6,4 +6,5 @@ Repository for Module 1 Challenge 1
 3. Organized headers to be sequential.
 4. Gave the webpage a unique title.
 5. Added in alt tags to the images, so they are named when inspected.
+
 ###Link to the deployed application ()
